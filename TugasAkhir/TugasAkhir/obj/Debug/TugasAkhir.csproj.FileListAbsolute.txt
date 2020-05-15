@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe.config
+C:\Users\user\source\repos\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe
+C:\Users\user\source\repos\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.pdb
+C:\Users\user\source\repos\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.Form1.resources
+C:\Users\user\source\repos\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.Properties.Resources.resources
+C:\Users\user\source\repos\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.exe
+C:\Users\user\source\repos\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.pdb
+C:\Users\user\source\repos\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.Form2.resources
